@@ -61,12 +61,18 @@ Implementar autenticação em múltiplos fatores
 
 medusa-forcebrute-lab/
 ├── README.md
+
 ├── commands.txt
+
 ├── wordlists/
+
 │   └── small-pass.txt
+
 └── images/
 
 
 Autor: Roger Silva
+
 Data: Novembro/2025
+
 Uso: Fins educacionais e laboratoriais.
