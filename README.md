@@ -58,6 +58,7 @@ Desabilitar serviços desnecessários
 Implementar autenticação em múltiplos fatores
 
 📁 Estrutura do Projeto
+
 medusa-forcebrute-lab/
 ├── README.md
 ├── commands.txt
