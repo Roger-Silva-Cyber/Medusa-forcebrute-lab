@@ -26,6 +26,7 @@ Simular ataques de força bruta contra serviços comuns (como FTP) para compreen
    ```bash
    ip a
 ⚡ Execução
+
 1️⃣ Descobrir o alvo ativo
 nmap -sn 192.168.56.0/24
 
